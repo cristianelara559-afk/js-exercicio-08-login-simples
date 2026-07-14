@@ -1,4 +1,4 @@
-# Exercício 07 — Contador
+# Exercício 08 — Login simples
 # Descrição
 Este projeto contém um programa simples em JavaScript que calcula a média
 # Tecnologias utilizadas
